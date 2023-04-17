@@ -1,0 +1,18 @@
+{ 
+    "id": "2",
+    "name": "This is My NFT1",
+     "description": "This is my NFT", 
+     "image": "ipfs://QmYEnSJ6kAqX2Y5WGSWuFo4FrZTybWv6JPuyGFNut9zH4p",
+     "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "Brown"
+        },
+        {
+          "trait_type": "Tshirt",
+          "value": "Red"
+        }
+      ]
+ }
+
+

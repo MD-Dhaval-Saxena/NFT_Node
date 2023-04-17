@@ -1,0 +1,15 @@
+{
+	"id": "1",
+	"name": "This is My NFT1",
+	"description": "This is my NFT",
+	"image": "ipfs://QmWNoTyjXny9LrmNQA3P7uojNe8wBx5JKKyeTAYJnmFF1Z",
+	"attributes": [{
+			"trait_type": "Eyes",
+			"value": "X Eyes"
+		},
+		{
+			"trait_type": "Smile",
+			"value": "Crazy"
+		}
+	]
+}

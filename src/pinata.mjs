@@ -5,8 +5,7 @@ const app = express();
 import fs from "fs";
 import { create } from "ipfs-http-client";
 import { setURI } from "../src/index.mjs";
-// const ipfs=create("http://127.0.0.1:5001");
-const ipfs = create("http://127.0.0.1:45005/");
+const ipfs = create(process.env.ipfs_url);
 
 const key = process.env.pinata_key;
 
